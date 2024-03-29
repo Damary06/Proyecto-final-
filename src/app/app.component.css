@@ -1,0 +1,15 @@
+
+nav a {
+    margin-right: 20px; 
+    text-decoration: none; 
+    font-size: 18px; 
+  }
+  
+  nav a:hover {
+    color: #0056b3; 
+  }
+  
+  h1 {
+    margin-bottom: 20px; 
+  }
+  
